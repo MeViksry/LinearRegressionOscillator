@@ -1,5 +1,5 @@
 <div align="center">
-## 🌊 LRO Oscillator [Quentra Algo]
+### 🌊 LRO Oscillator [Quentra Algo]
 
 ![Aqua Banner](https://via.placeholder.com/800x200/00CED1/FFFFFF?text=LRO+OSCILLATOR+%5BQuentra+Algo%5D)
 
