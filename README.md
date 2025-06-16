@@ -72,11 +72,8 @@ The **LRO Oscillator** is a sophisticated technical analysis indicator developed
 ## 📊 Screenshots
 
 ### 🖼️ Main Oscillator View
-```
 
 ![Banner](https://via.placeholder.com/800x200/00CED1/FFFFFF?text=LRO+OSCILLATOR+%5BQuentra+Algo%5D)
-
-```
 
 ### 🎨 Color Scheme
 - **Aqua (#00CED1)**: Bullish signals and uptrend
