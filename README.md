@@ -1,5 +1,5 @@
+# LinearRegressionOscillator
 <div align="center">
-# Linear Regression Oscillator
 
 ![Aqua Banner](https://via.placeholder.com/800x200/00CED1/FFFFFF?text=LRO+OSCILLATOR+%5BQuentra+Algo%5D)
 
