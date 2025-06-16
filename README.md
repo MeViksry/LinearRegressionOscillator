@@ -1,6 +1,5 @@
+## 🌊 LRO Oscillator [Quentra Algo]
 <div align="center">
-### 🌊 LRO Oscillator [Quentra Algo]
-
 ![Aqua Banner](https://via.placeholder.com/800x200/00CED1/FFFFFF?text=LRO+OSCILLATOR+%5BQuentra+Algo%5D)
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-00CED1.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
