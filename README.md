@@ -3,10 +3,10 @@
 
 ![Banner](https://via.placeholder.com/800x200/00CED1/FFFFFF?text=LRO+OSCILLATOR+%5BQuentra+Algo%5D)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-aqua.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-10CAB8.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![TradingView](https://img.shields.io/badge/TradingView-Script-10CAB8.svg?style=for-the-badge&logo=tradingview)](https://www.tradingview.com)
-[![Pine Script](https://img.shields.io/badge/Pine%20Script-v5-00CED1.svg?style=for-the-badge)](https://www.tradingview.com/pine-script-docs/)
-[![Version](https://img.shields.io/badge/Version-1.0-00CED1.svg?style=for-the-badge)](#)
+[![Pine Script](https://img.shields.io/badge/Pine%20Script-v5-10CAB8.svg?style=for-the-badge)](https://www.tradingview.com/pine-script-docs/)
+[![Version](https://img.shields.io/badge/Version-1.0-10CAB8.svg?style=for-the-badge)](#)
 
 
 🌊 **Advanced Linear Regression Oscillator for TradingView** 🌊
